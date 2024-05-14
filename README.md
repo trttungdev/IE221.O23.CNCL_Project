@@ -1,7 +1,8 @@
 # Game fighter
 How to play :
 '''
-pip install -r requirements.txt \n
+pip install -r requirements.txt 
+
 python main.py 
 '''
 
