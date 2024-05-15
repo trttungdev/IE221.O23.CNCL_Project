@@ -1,5 +1,5 @@
 # Đồ Án Môn Học IE221.O23.CNCL - Game đối kháng 2 người 
-- Trần Thanh Tùng ( 21522771)
+- Trần Thanh Tùng | MSSV : 21522771
 
 ## Tổng quan
 
