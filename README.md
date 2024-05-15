@@ -24,7 +24,7 @@
 
 ## Cài Đặt
 ```
-  git clone [https://github.com/trttung_dev/fighting-game.git](https://github.com/trttungdev/fight_game.git)
+  git clone https://github.com/trttung_dev/fighting-game.git
 ```
 
 ```
