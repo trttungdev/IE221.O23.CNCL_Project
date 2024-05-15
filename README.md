@@ -24,12 +24,15 @@
 
 ## Cài đặt
 '''
+  
   git clone [https://github.com/trttung_dev/fighting-game.git](https://github.com/trttungdev/fight_game.git)
 
 '''
 
 '''
+  
   cd fighting-game
+  
   
   pip install pygame , Pillows
   
