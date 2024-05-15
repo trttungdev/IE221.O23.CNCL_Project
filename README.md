@@ -24,7 +24,7 @@
 
 ## Cài Đặt
 ```
-  git clone https://github.com/trttung_dev/fighting-game.git
+  git clone [https://github.com/trttung_dev/fighting-game.git](https://github.com/trttungdev/IE221.O23.CNCL_Project.git)
 ```
 
 ```
