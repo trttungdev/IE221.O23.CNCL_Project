@@ -1,13 +1,13 @@
 # Đồ Án Môn Học IE221.O23.CNCL - Game đối kháng 2 người 
 - Trần Thanh Tùng ( 21522771)
 
-## Table of Contents
+## Tổng quan
 
-- [Game Đối Kháng 2 Người](#Đồ Án Môn Học IE221.O23.CNCL - Game đối kháng 2 người)
-- [Giới Thiệu](##Giới Thiệu)
-- [Tính Năng](##Tính Năng)
-- [Cài Đặt](##Cài Đặt)
-- [Sử Dụng](#Sử Dụng)
+- [Game Đối Kháng 2 Người](#game-đối-kháng-2-người)
+- [Giới Thiệu](#giới-thiệu)
+- [Tính Năng](#tính-năng)
+- [Cài Đặt](#cài-đặt)
+- [Sử Dụng](#sử-dụng)
 
 ## Giới Thiệu
 
@@ -43,6 +43,4 @@ python main.py
 
 ## Demo
 
-![Uploading image.png…]()
-
-Links to relevant resources, documentation, or external references related to the project.
+<img width="318" alt="image" src="https://github.com/trttungdev/fight_game/assets/94973318/fc934bfc-de10-454d-bb84-469c6d7f2369">
